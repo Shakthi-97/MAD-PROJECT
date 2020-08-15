@@ -27,7 +27,7 @@
             android:text="@string/Rent_AND_Ride"
             android:textAlignment="center"
             android:textColor="#fff"
-            android:textSize="26sp" />
+            android:textSize="24sp" />
     </RelativeLayout>
 
 
@@ -107,7 +107,7 @@
         android:drawableStart="@drawable/ic_action_check"
         android:text="@string/Return_to_different_Location"
         android:textColor="#00008B"
-        android:textSize="14sp" />
+        android:textSize="26sp" />
 
     <EditText
         android:id="@+id/editTextTime"
