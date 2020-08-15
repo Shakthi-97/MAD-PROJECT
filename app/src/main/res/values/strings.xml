@@ -23,5 +23,8 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
 
+    <string name="title">Driver Details</string>
+    <string name="msg1">Please enter the lead driver details.</string>
+
 
 </resources> 
