@@ -26,5 +26,15 @@
     <string name="title">Driver Details</string>
     <string name="msg1">Please enter the lead driver details.</string>
 
+    <string name="fullname">Full Name:</string>
+    <string name="email">Email:</string>
+    <string name="phoneNum">Phone Number:</string>
+    <string name="dob">Date of Birth:</string>
+    <string name="country">Country/Region:</string>
+    <string name="past">Past Trips</string>
+    <string name="trips">Rides</string>
+    <string name="complete">Trip Completed</string>
+
+
 
 </resources> 
