@@ -9,11 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".createDriver"></activity>
+        <activity android:name=".viewDriver"></activity>
+        <activity android:name=".createDriver" />
         <activity
             android:name=".navigation"
             android:label="@string/title_activity_navigation"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".MyTrips" />
         <activity android:name=".Search" />
         <activity android:name=".MainActivity">
