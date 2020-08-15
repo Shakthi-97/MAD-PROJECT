@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="Rent_AND_Ride">"Rent AND Ride" </string>
+    <string name="Where_to">Where to?</string>
+    <string name="Pick_up_Location">Pick-up Location</string>
+    <string name="Drop_off_Location">Drop-off Location</string>
+    <string name="Return_to_different_Location">Return to different Location?</string>
+    <string name="Time">Time</string>
+    <string name="Pick_up_Date">Pick-up Date</string>
+    <string name="Drop_off_Date">Drop-off Date</string>
+    <string name="Search_for_Car">Search for Car</string>
+    <string name="Due_to_Covid_19_some_destinations_maybe_unavailable_for_certain_dates">
+        Due to Covid-19,some destinations maybe unavailable for certain dates. </string>
+
+
+</resources> 
