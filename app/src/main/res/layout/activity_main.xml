@@ -27,7 +27,7 @@
             android:text="@string/Rent_AND_Ride"
             android:textAlignment="center"
             android:textColor="#fff"
-            android:textSize="22sp" />
+            android:textSize="26sp" />
     </RelativeLayout>
 
 
